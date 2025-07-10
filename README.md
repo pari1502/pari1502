@@ -4,38 +4,48 @@
   Mahasiswa Sistem Informasi | UI/UX Design Enthusiast | Lifelong Learner
 </p>
 
-
 ## 🧑‍💻 About Me
 
-Halo! Saya **Muhammad Ghifari A.**, mahasiswa **Sistem Informasi semester 4** yang memiliki minat besar di bidang **UI/UX Design**.  
-Saya percaya bahwa desain bukan hanya soal tampilan, tetapi juga bagaimana menciptakan **pengalaman digital yang mudah, menyenangkan, dan bermakna**.
+Halo! Saya **Muhammad Ghifari Taqiuddin** (username: `ghifarit53`), mahasiswa **Sistem Informasi semester 4** yang antusias di bidang **UI/UX Design** dan pengembangan perangkat lunak.  
+Saya percaya bahwa desain bukan hanya soal tampilan, tetapi bagaimana menciptakan **pengalaman digital yang intuitif, menyenangkan, dan bermakna**.
 
-Saya sedang berusaha mengembangkan keterampilan desain dan teknologi untuk menciptakan solusi yang bermanfaat bagi masyarakat.
-
+Saya saat ini aktif mengembangkan keterampilan desain dan teknologi untuk menciptakan solusi inovatif yang bermanfaat bagi masyarakat.
 
 ## 💡 Skills
 
 ### Design Tools:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+- **Figma** • **Adobe XD** • **Canva**
 
 ### Programming & Tech:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **HTML**, **CSS**, **Python**, **Git**
 
+## 🚀 Projects
 
-## 🚀 My Projects
+Berikut beberapa proyek yang saya jalankan dan kembangkan:
 
-| Nama Proyek                     | Deskripsi Singkat                                                                      | Link          |
-|----------------------------------|---------------------------------------------------------------------------------------|---------------|
-| **Redesign Aplikasi UMKM**       | Desain ulang aplikasi pencatatan keuangan agar lebih modern dan mudah digunakan.      | [View Project](#) |
-| **Landing Page Produk Digital**  | Desain landing page promosi produk digital dengan pendekatan minimalis dan efektif.   | [View Project](#) |
-| **Prototype To-Do List App**     | Desain prototype aplikasi mobile manajemen tugas dengan UI yang clean dan simple.     | [View Project](#) |
+| Nama Proyek                | Teknologi           | Deskripsi                                                                 |
+|---------------------------|---------------------|---------------------------------------------------------------------------|
+| **tokyonight‑vim**        | Vim Script          | Tema warna gelap untuk Vim, terinspirasi dari ambient malam kota Tokyo.  |
+| **daycula‑vim**           | Vim Script          | Tema warna gelap lain untuk Vim yang lembut dan menenangkan.             |
+| **ghifarit53.github.io**  | HTML (Website statis)| Website pribadi sebagai portofolio dan blog kecil saya.                  |
+| **school‑bell**           | Go + Web UI         | Sistem bel sekolah yang dapat dikendalikan melalui antarmuka web.        |
+| **quiz1**                 | HTML + JavaScript   | Aplikasi kuis interaktif berbasis web sederhana untuk latihan.           |
+| **Ping‑pong‑game**        | JavaScript          | Game ping‑pong klasik berbasis browser—seru untuk dimainkan di web!       |
 
-<p align="center">
-  Terima kasih sudah mampir! ✨ <br>
-  Mari berkolaborasi dan ciptakan solusi digital yang bermanfaat.
-</p>
+*(Semua repositori saya tersedia di akun GitHub: `@ghifarit53`)* :contentReference[oaicite:1]{index=1}
+
+## 🧭 Ingin Kolaborasi?
+
+Senang sekali jika ada peluang:
+
+- 🚀 Berkolaborasi dalam proyek UI/UX dan web development  
+- ✨ Mengembangkan prototype aplikasi yang kecil atau proof-of-concept  
+- 💬 Saling belajar lewat diskusi desain dan kode
+
+📫 Jangan ragu hubungi saya via GitHub atau kunjungi [website pribadi saya](https://mghifarit.my.id).
+
+---
+
+Terima kasih sudah mampir! ✨  
+Mari bersama menciptakan solusi digital yang bermanfaat.
+::contentReference[oaicite:2]{index=2}
