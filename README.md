@@ -35,12 +35,6 @@ Saya sedang berusaha mengembangkan keterampilan desain dan teknologi untuk menci
 | **Landing Page Produk Digital**  | Desain landing page promosi produk digital dengan pendekatan minimalis dan efektif.   | [View Project](#) |
 | **Prototype To-Do List App**     | Desain prototype aplikasi mobile manajemen tugas dengan UI yang clean dan simple.     | [View Project](#) |
 
-
-## 📫 Contact Me
-
-- 📍 **LinkedIn:** [LinkedIn Kamu](#)
-- 📧 **Email:** your.email@example.com
-
 <p align="center">
   Terima kasih sudah mampir! ✨ <br>
   Mari berkolaborasi dan ciptakan solusi digital yang bermanfaat.
